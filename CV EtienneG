@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV etienneG</title>
+</head>
+
+<body>
+
+    <header style="text-align: center"> 
+        <h1>Etienne Gonnu</h1>
+        <h2> Juriste en Droit des TIC</h2>
+     </header>
+        
+    <main>
+        <ul>
+            <li><strong>Expérience professionnelle</strong></li>
+                <ul>
+                    <li> <em>2014 </em> <strong>Juriste</strong> : Stage de  de 6 mois chez Xandrie dans le cadre du Projet Allbrary</li>
+                    <li> <em>2010-2013 </em> <strong>Professeur particulier d'anglais</strong> : coaching pour adultes</li>
+                    <li> <em>2010-2013 </em> <strong>Vendeur</strong> : Chez Jeff de Bruges puis chez Erik Kayser</li>
+                </ul>
+            <li><strong>Formation</strong></li>
+                <ul>
+                    <li><em>2013-2014 </em> Master 2 en droit du numérique à Paris 1 Panthéon - Sorbonne. Mémoire sur les enjeux juridiques de l'indexation du web.</li>
+                    <li><em>2008-2009</em> LL.M (Master of Law) à la Whittier Law School en Californie.</li>
+                    <li><em>2004-2008</em> Licence et Master en Droit comparé, français et anglo-américain. Cursus bilingue</li>
+                    <li><em>2004</em> Bac à lauréat scientifique</li>
+                </ul>
+        </ul>
+    </main>
+    
+    <footer>
+        <p> Coordonnées:</p>
+        <p>7 ter rue du colonel oudot 75012</p>
+        <p>0609162147</p>
+        <p>etiennegonnu@gmail.com</p>
+        <p><a href="https://fr.linkedin.com/pub/etienne-gonnu/57/915/72a">Linkedin</a></p>
+    </footer>
+    
+</body>
+
+
+</html>
