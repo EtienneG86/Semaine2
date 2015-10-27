@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>CV etienneG</title>
+    <meta charset="UFT-8">
 </head>
 
 <body>
@@ -30,7 +31,7 @@
     </main>
     
     <footer>
-        <p> Coordonnées:</p>
+        <p> <strong>Coordonnées:</strong></p>
         <p>7 ter rue du colonel oudot 75012</p>
         <p>0609162147</p>
         <p>etiennegonnu@gmail.com</p>
